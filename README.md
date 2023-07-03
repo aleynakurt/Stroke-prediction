@@ -1,4 +1,4 @@
-![banner](img/banner.png)
+![banner](Img/banner.png)
 
 ## 1.Introduction:
 This project utilizes real-world and synthetic datasets to predict stroke events by analyzing clinical features. The aim is to determine the most key risk factors for strokes by investigating parameters like gender, age, hypertension, heart disease, and lifestyle choices.
@@ -37,7 +37,7 @@ To work with categorical variables for further analysis, data encoding was used.
 variables into numerical format using the factorize function, enhances the datasets’ relevance for
 modelling. 
 ### Data Analysis
-![cor](img/correlation1.jpg)
+![cor](Img/correlation1.jpg)
 
 ## 4.Training
 From a Python library which is scikit-learn we used 6 different machine learning models. \
@@ -58,4 +58,4 @@ Our model achieves the following performance:
 |XGBClassifier	| 95.16% |
 
 
-![roc](img/roccurve.jpg)
+![roc](Img/roccurve.jpg)
